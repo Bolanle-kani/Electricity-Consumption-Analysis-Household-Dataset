@@ -1,8 +1,8 @@
-![Profile Picture](https://github.com/Ahmad-Ali-Rafique/Electricity-Consumption-Analysis-Household-Dataset/blob/main/Electicity%20Consumption.png)
+
 
 # About Me
 
-Hello! Omobolanle Komolafe, a dedicated data scientist specializing in energy analytics and sustainable practices. With a strong foundation in artificial intelligence and machine learning, I am committed to leveraging data-driven insights to optimize household electricity consumption.
+Hello! I'm Omobolanle Komolafe, a dedicated data scientist specializing in energy analytics and sustainable practices. With a strong foundation in artificial intelligence and machine learning, I am committed to leveraging data-driven insights to optimize household electricity consumption.
 
 ## Project Focus
 
