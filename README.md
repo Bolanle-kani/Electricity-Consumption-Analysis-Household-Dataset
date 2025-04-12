@@ -26,12 +26,7 @@ My technical toolkit includes:
 
 I am passionate about contributing to sustainable development through innovative data solutions. I seek to collaborate with like-minded professionals and organizations to drive positive change in energy efficiency and conservation.
 
-## Let's Connect
 
-Feel free to explore my GitHub repository for detailed insights into my projects. I'm open to discussing opportunities, collaborations, or simply sharing knowledge on energy analytics and data science.
-
-- LinkedIn: https://www.linkedin.com/in/ahmad-ali-rafique/
-- Email: arsbussiness786@gmail.com
 
 I look forward to connecting with you!
 
