@@ -2,7 +2,7 @@
 
 # About Me
 
-Hello! I'm Ahmad Ali, a dedicated data scientist specializing in energy analytics and sustainable practices. With a strong foundation in artificial intelligence and machine learning, I am committed to leveraging data-driven insights to optimize household electricity consumption.
+Hello! Omobolanle Komolafe, a dedicated data scientist specializing in energy analytics and sustainable practices. With a strong foundation in artificial intelligence and machine learning, I am committed to leveraging data-driven insights to optimize household electricity consumption.
 
 ## Project Focus
 
